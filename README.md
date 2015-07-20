@@ -1,4 +1,4 @@
 brianfoody.github.io
 ====================
 
-A demonstration of my work.
+A demonstration of my work...eventually
